@@ -1,3 +1,6 @@
 body{
-    background-image: url("images/backg.jpg");
+    background-image: url("images/backg2.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+    transform: rotate(45deg);
 }
