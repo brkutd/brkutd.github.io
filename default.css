@@ -26,7 +26,7 @@ body {
 .nav_bar a {
     text-decoration: none;
     color: #282828;
-    margin: 0 5px;
+    margin: 0 10px;
 }
 .nav_bar a:hover{
     color: black;
@@ -39,6 +39,7 @@ body {
     background-position: center;
     background-size: cover;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
 }
 .text_justify {
     text-align: justify;
