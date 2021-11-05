@@ -8,7 +8,7 @@ body {
     background-attachment: fixed;
 }
 * {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
     box-sizing: border-box;
 }
 .page_container {
@@ -32,14 +32,15 @@ body {
     color: black;
 }
 .profile_pic {
-    width: 200px;
-    height: 200px;
+    width: 220px;
+    height: 220px;
     border-radius: 50%;
     background-image: url("images/profil_cut.jpeg");
     background-position: center;
     background-size: cover;
-    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: -9px 8px 8px rgba(0, 0, 0, 0.6);
     margin-top: 50px;
+    filter: grayscale(70%);
 }
 .text_justify {
     text-align: justify;
