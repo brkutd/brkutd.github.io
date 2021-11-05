@@ -25,7 +25,7 @@ body {
 }
 .nav_bar a {
     text-decoration: none;
-    color: black;
+    color: #181818;
     margin: 0 5px;
 }
 .profile_pic {
@@ -42,4 +42,20 @@ body {
 }
 .container_margin {
     margin-top: 50px;
+}
+/*@media (min-width: 768px) {*/
+/*  .re_order .row {*/
+/*    display: flex;*/
+/*    display: -ms-flex;*/
+/*    flex-direction: column;*/
+/*  }*/
+/*  .re_order .row .first {*/
+/*    order: 1;*/
+/*  }*/
+/*  .re_order .row .second {*/
+/*    order: 2;*/
+/*  }*/
+/*}*/
+h2 {
+    font-weight: 400;
 }
