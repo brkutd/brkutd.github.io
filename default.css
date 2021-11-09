@@ -11,16 +11,11 @@ body {
     background-attachment: fixed;
 }
 .page_container {
-    background-color: aliceblue;
+    background-color: #dedede;
     width: 100%;
     height: 100%;
     border-radius: 30px;
     padding-bottom: 50px;
-}
-@media screen and (max-width: 992px) {
-    body {
-        padding: 20px;
-    }
 }
 .nav_bar {
     width: 100%;
@@ -52,17 +47,20 @@ body {
     text-align: justify;
 }
 .container_margin {
-    margin-top: 50px;
-}
-.container_margin_xl {
     margin-top: 100px;
 }
 .icon_design {
     margin-right: 20px;
     font-size: 30px;
 }
-.container_education:not(:last-child) {
+.container_margin_bottom {
     margin-bottom: 30px;
+}
+.html_icon_margin {
+    margin-top: 15px;
+}
+.buttons_bottom {
+    position: center;
 }
 /*@media (min-width: 768px) {*/
 /*  .re_order .row {*/
