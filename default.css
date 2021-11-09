@@ -17,6 +17,11 @@ body {
     border-radius: 30px;
     padding-bottom: 50px;
 }
+@media screen and (max-width: 992px) {
+    body {
+        padding: 20px;
+    }
+}
 .nav_bar {
     width: 100%;
     text-align: right;
@@ -62,16 +67,4 @@ body {
 .buttons_bottom {
     position: center;
 }
-/*@media (min-width: 768px) {*/
-/*  .re_order .row {*/
-/*    display: flex;*/
-/*    display: -ms-flex;*/
-/*    flex-direction: column;*/
-/*  }*/
-/*  .re_order .row .first {*/
-/*    order: 1;*/
-/*  }*/
-/*  .re_order .row .second {*/
-/*    order: 2;*/
-/*  }*/
-/*}*/
+
