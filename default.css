@@ -18,6 +18,11 @@ body {
     border-radius: 30px;
     padding-bottom: 50px;
 }
+@media screen and (max-width: 992px) {
+    body {
+        padding: 20px;
+    }
+}
 .nav_bar {
     width: 100%;
     text-align: right;
