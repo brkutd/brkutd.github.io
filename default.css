@@ -55,6 +55,13 @@ body {
 .container_margin {
     margin-top: 50px;
 }
+.icon_design {
+    margin-right: 20px;
+    font-size: 30px;
+}
+.container_education:not(:last-child) {
+    margin-bottom: 30px;
+}
 /*@media (min-width: 768px) {*/
 /*  .re_order .row {*/
 /*    display: flex;*/
