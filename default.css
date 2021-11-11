@@ -10,6 +10,18 @@ body {
     background-repeat: repeat;
     background-attachment: fixed;
 }
+.large_font {
+    font-size: x-large;
+}
+.small_font {
+    font-size: small;
+}
+.medium_font {
+    font-size: medium;
+}
+.text-indent {
+    margin-left: 60px;
+}
 .page_container {
     background-color: #dedede;
     width: 100%;
@@ -55,6 +67,9 @@ body {
 .container_margin {
     margin-top: 100px;
 }
+.bold {
+    font-weight: bold;
+}
 .icon_design {
     margin-right: 20px;
     font-size: 30px;
@@ -62,10 +77,20 @@ body {
 .container_margin_bottom {
     margin-bottom: 30px;
 }
+.test {
+    margin-bottom: 2px;
+}
 .html_icon_margin {
     margin-top: 15px;
 }
 .buttons_bottom {
     position: center;
+}
+.fa-python {
+    margin-top: 13px;
+    margin-right: 24px;
+}
+.block1, .block2 {
+    display: inline;
 }
 
