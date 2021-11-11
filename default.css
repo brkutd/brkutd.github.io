@@ -20,7 +20,7 @@ body {
     font-size: medium;
 }
 .text-indent {
-    margin-left: 60px;
+    text-indent: 60px;
 }
 .page_container {
     background-color: #dedede;
@@ -86,11 +86,14 @@ body {
 .buttons_bottom {
     position: center;
 }
-.fa-python {
-    margin-top: 13px;
-    margin-right: 24px;
+.img_size {
+    width: 30px;
+    height: 39px;
 }
-.block1, .block2 {
-    display: inline;
+.p_margin_bottom {
+    margin-bottom: 0;
 }
-
+.buttons_bottom {
+    text-align: center;
+    margin-top: 100px;
+}
