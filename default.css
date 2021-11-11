@@ -64,8 +64,14 @@ body {
 .text_justify {
     text-align: justify;
 }
+.container_margin_xl {
+    margin-top: 125px;
+}
 .container_margin {
     margin-top: 100px;
+}
+.container_margin_s {
+    margin-top: 50px;
 }
 .bold {
     font-weight: bold;
