@@ -20,7 +20,7 @@ body {
     font-size: medium;
 }
 .text-indent {
-    text-indent: 60px;
+    margin-left: 60px;
 }
 .page_container {
     background-color: #dedede;
