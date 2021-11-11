@@ -58,7 +58,6 @@ body {
     background-size: cover;
     box-shadow: -9px 8px 8px rgba(0, 0, 0, 0.6);
     margin-top: 50px;
-    margin-bottom: 20px;
     filter: grayscale(70%);
 }
 .text_justify {
