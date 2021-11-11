@@ -103,3 +103,6 @@ body {
     text-align: center;
     margin-top: 100px;
 }
+hr.solid {
+    border-top: 3px solid #000000;
+}
