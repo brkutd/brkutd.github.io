@@ -35,6 +35,10 @@ body {
         padding: 20px;
     }
 }
+.email_button {
+    float: left;
+    width: 5%;
+}
 .nav_bar {
     width: 100%;
     text-align: right;
