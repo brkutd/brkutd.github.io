@@ -34,6 +34,13 @@ body {
     body {
         padding: 20px;
     }
+   .margin-mobile {
+      margin-top: 50px;
+   }
+   .center-mobile {
+      margin: 0 auto;
+      text-align: center;
+   }
 }
 .email_button {
     float: left;
